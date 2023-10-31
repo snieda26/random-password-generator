@@ -1,0 +1,21 @@
+.passwordContainer {
+  display: flex;
+  align-items: center;
+  width: 90%;
+  margin: 8px 0;
+}
+
+.clipboardIcon {
+  cursor: pointer;
+  margin-left: 20px;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+.passwordInput {
+  width: 90%;
+  padding: 8px;
+  margin: 8px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
